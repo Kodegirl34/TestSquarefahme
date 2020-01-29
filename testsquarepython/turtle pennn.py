@@ -22,7 +22,7 @@ turtle.penup()
 
 # Draw the outline of a square using a For loop
 turtle.goto(-175, 100)
-turtle.color("magneta")
+turtle.color("blue")
 turtle.pendown()
 for i in range (4):
     turtle.forward(150)
