@@ -51,7 +51,7 @@ turtle.end_fill()
 
 window.exitonclick()
 
-$ git push orgin master 
+
 
 
 
